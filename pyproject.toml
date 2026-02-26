@@ -1,0 +1,5 @@
+[project]
+name = "Mathematics_ML"
+version = "0.1.0"
+requires-python = ">= 3.12.6"
+dependencies = []
