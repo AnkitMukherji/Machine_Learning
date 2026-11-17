@@ -2,6 +2,10 @@
 
 Python notebooks exploring the mathematics behind machine learning: linear algebra, optimization, regression, and neural-network gradients.
 
+## Folder guides
+
+- [Mathematics for machine learning notebooks](Mathematics_ML/README.md)
+
 ## Notebook guide
 
 All primary material is in [Mathematics_ML/](Mathematics_ML/).
